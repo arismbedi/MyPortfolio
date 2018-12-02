@@ -1,0 +1,14 @@
+{
+  "name": "myportfolio2",
+  "version": "1.0.0",
+  "description": "This is my Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/  --recursive"
+  },
+  "author": "Aris Bota",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.10.0"
+  }
+}
