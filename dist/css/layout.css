@@ -293,6 +293,7 @@ fieldset[disabled] .btn-theme {
   align-items: center;
   justify-content: center;
   transform: translate3d(0, 100%, 0);
+
 }
 
 .branding .portrait {
