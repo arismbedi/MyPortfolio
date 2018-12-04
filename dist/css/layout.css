@@ -287,6 +287,24 @@ fieldset[disabled] .btn-theme {
 }
 
 /*------------------------------------------------------------------
+    [portrait]
+------------------------------------------------------------------*/
+.branding {
+  align-items: center;
+  justify-content: center;
+  transform: translate3d(0, 100%, 0);
+}
+
+.branding .portrait {
+      width: 250px;
+      height: 250px;
+      background: url(/dist/img/portrait.jpg);
+      border-radius: 50%;
+      border: solid 3px #17bed2
+  }
+
+
+/*------------------------------------------------------------------
   	[Social Icons]
 ------------------------------------------------------------------*/
 .social-icons {
